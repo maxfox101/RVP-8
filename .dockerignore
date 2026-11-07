@@ -1,0 +1,8 @@
+node_modules
+.pg-bazmet
+.env
+.git
+*.log
+Отчет*
+scripts/build_*.py
+README.md
